@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300&family=Playfair+Display:ital,wght@0,400;0,500;1,400&display=swap');
+body{
+    
+font-family: 'Playfair Display', serif;
+}
+.navb{
+    border-radius: 25px;
+}
+.lien{
+    color: rgb(11, 197, 11);
+}
+.lien:hover{
+    border-bottom: 4px solid rgb(11, 197, 11);
+    color: rgb(11, 197, 11);
+ 
+
+}
+*{
+    margin-bottom: 0px;
+}
+body{
+    /*background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../image/dev1.jpg') center center  no-repeat;*/
+    background-image:url('../image/dev1.jpg') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+    background-size: cover;
+}
+.op1{
+    margin-top: 120px;
+}
+.op2{
+    color: white !important;
+}
+.op3{
+    content: "";
+    margin-top: 370px;
+    background-color: rgba(207, 207, 228);
+    margin-bottom: 0%;
+    padding-bottom: 10px;
+
+}
+.op4{
+    padding: 60px 0px;
+    position: relative;
+}
+.op4::before{
+    content: '';
+    position: absolute;
+    top: 5px;
+    right:49%;
+    width: 80px;
+    background-color: green;
+    height: 50px;
+    width: 4px;
+}
+.op5{
+    justify-content: center;
+    align-items: center;
+}
+.op6{
+    justify-content: center;
+    align-items: center;
+    padding: 30px 15px;
+    background-color: rgb(244, 244, 248);
+}
+.op7{
+    color: rgba(228, 6, 228);
+    margin-bottom: 15px;
+    margin-left: 4px;
+}
+.op8{
+    height: 300px;
+    width: 599px;
+}
+.op6:hover{
+    color: white;
+    background-color: blue;
+}
+.btnsp{
+    border-radius: 25px;
+    background-color: #0d6efd;
+    color: white;
+}
+.btnsp:hover{
+    background-color: rgb(185, 50, 9);
+
+}
+.op10{
+    transition: transform 0.3s ease;
+}
+.op10:hover{
+    transform: translateY(-10px);
+}
+.op11{
+    content: "";
+ 
+    background-color: white;
+    padding-bottom: 10px
+    ;
+}
+
+.op12{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.btnso{
+    color: whitesmoke;
+    background-color: #F08080;
+}
+.op13:hover{
+    box-shadow: 5px 5px 12px #0d6efd;
+}
+.op14{
+    content: "";
+ 
+    background-color: rgb(3, 3, 3);
+    padding-bottom: 10px
+}
+.op15{
+    font-size: 84px;
+    justify-content: center;
+    text-align: center;
+    color: rgb(185, 41, 37);
+    margin-bottom: 0;
+
+}
+.op16{
+    content: "";
+ 
+    background-color: rgb(10, 4, 22);
+    padding-bottom: 10px
+}
+.op17{
+    word-spacing: 5px;
+}
+.op18{
+    border-radius: 165px;
+    
+}

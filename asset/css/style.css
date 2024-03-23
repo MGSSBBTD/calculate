@@ -1,0 +1,99 @@
+/*.cc {
+
+	background-color: brown;
+	margin-top: 3%;
+	height: 200px;
+
+}
+*/
+.lol {
+	position: fixed;
+	width: 100%;
+	height:11% ;
+	background-color: white;
+	padding: 0%;
+	z-index: 500;
+
+}
+.lil{
+	margin-top: 30px;
+	
+}
+
+.ccc {
+	width: 4%;
+	height: 4%;
+}
+
+/*.uu {
+	margin-top: 7% ;
+
+}
+*/
+.fter {
+	margin-top: 7px;
+	background-color: #1b0808;
+	padding: 70px 0;
+}
+
+.sgb p {
+	color: #fff;
+	line-height: 1.9;
+}
+
+.sgb ul {
+	list-style: none;
+	padding: 0;
+}
+
+.sgb ul li a {
+	text-decoration: none;
+	color: #fff;
+	line-height: 2.5;
+	font-weight: 100;
+}
+
+/*.dou {
+	position: fixed;
+	height: 100vh;
+	overflow-y: scroll;
+
+}
+.jou{
+	overflow-y: scroll;
+}
+*/
+.inil {
+float: left;
+font-size: 3em;
+line-height: 1.2;
+margin-right: 0.1em;
+position: relative;
+}
+.inil::before{
+	content: "";
+	position: absolute;
+	top: -0.01em;
+	left: -0.1em;
+	width: 100%;
+	height: 100%;
+	border-top: 1px solid red;
+	border-left: 1px solid red;
+
+}
+.ol{
+	margin-left: 150px;
+}
+.liu{
+	margin-left: 355px;
+	padding-left: 35px;
+}
+.jus{
+	justify-content: center;
+}
+.poi{
+	background-color: #252525;
+}
+.olop{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
